@@ -1,6 +1,6 @@
 # login_demo
 
-A new Flutter project.
+A simple mobile with flutter that has authentication festures.
 
 ## Getting Started
 
